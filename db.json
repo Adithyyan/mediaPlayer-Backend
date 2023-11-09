@@ -1,0 +1,75 @@
+{
+  "Videos": [
+    {
+      "id": " Badass ",
+      "caption": "LEO - Badass Lyric | Thalapathy Vijay | Lokesh Kanagaraj | Anirudh Ravichander",
+      "url": "https://cdn.gulte.com/wp-content/uploads/2023/09/LEO.png",
+      "embedLink": "https://www.youtube.com/embed/IqwIOlhfCak"
+    },
+    {
+      "id": "3",
+      "caption": "ഉയിരിൽ തൊടും ",
+      "url": "https://i.ytimg.com/vi/bNyKd0PUx04/maxresdefault.jpg",
+      "embedLink": "https://www.youtube.com/embed/ZKhOs_Pc_7s"
+    },
+    {
+      "id": "4",
+      "caption": "Latoo Video Song",
+      "url": "https://i.ytimg.com/vi/ORiC-DAahuM/maxresdefault.jpg",
+      "embedLink": "https://www.youtube.com/embed/ORiC-DAahuM"
+    },
+    {
+      "id": "5",
+      "caption": "Chaleya",
+      "url": "https://timesofindia.indiatimes.com/photo/msid-102714892,imgsize-157267.cms",
+      "embedLink": "https://www.youtube.com/embed/VAdGW7QDJiU"
+    }
+  ],
+  "Category": [
+    {
+      "CategoryName": "Hindi Songs",
+      "allVideos": [
+        {
+          "id": "4",
+          "caption": "Latoo Video Song",
+          "url": "https://i.ytimg.com/vi/ORiC-DAahuM/maxresdefault.jpg",
+          "embedLink": "https://www.youtube.com/embed/ORiC-DAahuM"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "CategoryName": "Latest Songs",
+      "allVideos": [
+        {
+          "id": "5",
+          "caption": "Chaleya",
+          "url": "https://timesofindia.indiatimes.com/photo/msid-102714892,imgsize-157267.cms",
+          "embedLink": "https://www.youtube.com/embed/VAdGW7QDJiU"
+        }
+       
+      ],
+      "id": 2
+    }
+  ],
+  "History": [
+    {
+      "caption": "LEO - Badass Lyric | Thalapathy Vijay | Lokesh Kanagaraj | Anirudh Ravichander",
+      "embedLink": "https://www.youtube.com/embed/IqwIOlhfCak",
+      "timeStamp": "11/07/2023, 09:12:56 AM",
+      "id": 1
+    },
+    {
+      "caption": "ഉയിരിൽ തൊടും ",
+      "embedLink": "https://www.youtube.com/embed/ZKhOs_Pc_7s",
+      "timeStamp": "11/07/2023, 09:55:13 AM",
+      "id": 3
+    },
+    {
+      "caption": "Chaleya",
+      "embedLink": "https://www.youtube.com/embed/VAdGW7QDJiU",
+      "timeStamp": "11/09/2023, 10:52:09 AM",
+      "id": 4
+    }
+  ]
+}
